@@ -1,0 +1,5 @@
+test*
+mysql_credentials.yaml
+0_DataProcessing/test*
+1_DataAnalysis/test*
+2_DataModeling/TimeSeriesLSTM/*
